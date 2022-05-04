@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/maddydevgits](https://github.com/maddydevgits)
 
-- 💬 Ask me about **IoT, Raspberry Pi, Arduino , Ganache, Metamask, Truffle, Smart Contracts**
+- 💬 Ask me about **IoT, Raspberry Pi, Arduino, AWS, ML/AI, NLP, Chatbots, Ganache, Metamask, Truffle, Smart Contracts**
 
 - 📫 How to reach me **maddy@makeskilled.com**
 
